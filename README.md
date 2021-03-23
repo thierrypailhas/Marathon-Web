@@ -10,7 +10,9 @@ Primaire (cœur de cible) : Touristes (adolescents, familles), visiteurs amateur
 Secondaire : étudiants, nouveaux habitants de la ville de Montpellier et alentours qui souhaiteraient facilement découvrir les lieux incontournables de l’histoire dans le sud de la France.
 
 
-## Missions : Utiliser des APIs de reconnaissance de nom de lieux et d’évènements fournis par la société, retrouver les coordonnées géographiques des lieux, les placer sur une carte avec les informations associées (informations provenant des APIs telles que le nom des événements, des mots clés, des concepts, l’opinion et les émotions associées à un lieu etc.).
+## Missions : 
+
+Utiliser des APIs de reconnaissance de nom de lieux et d’évènements fournis par la société, retrouver les coordonnées géographiques des lieux, les placer sur une carte avec les informations associées (informations provenant des APIs telles que le nom des événements, des mots clés, des concepts, l’opinion et les émotions associées à un lieu etc.).
 
 ## Sources et données disponibles : Wikipédia et/ou articles journalistiques
 
