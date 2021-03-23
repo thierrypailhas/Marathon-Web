@@ -7,9 +7,9 @@ Emvista développe des briques logicielles pour comprendre le langage naturel. L
 
 ## Objectifs
 
-*Générer automatiquement des cartes interactives à partir de contenus textuels.
-*Ces cartes indiqueront les lieux cités dans les textes et les informations associées.
-*Ces lieux seront définis par une relation d’ordre chronologique ou temporel.
+* Générer automatiquement des cartes interactives à partir de contenus textuels.
+* Ces cartes indiqueront les lieux cités dans les textes et les informations associées.
+* Ces lieux seront définis par une relation d’ordre chronologique ou temporel.
 
 
 ## Enjeux 
