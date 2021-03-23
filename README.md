@@ -50,7 +50,7 @@ Lien vers monday.com
 Tâches | Rôles | 
  --- | --- |
 Analyse des besoins| CNO et MIASHS | 
-Extraction des données | Thierry, Gilles | 
+Extraction des données | MIASHS | 
 Analyse semantique des données | MIASHS | 
 Cartographie | MIASHS |
 Site Web | CNO et MIASHS |
