@@ -30,7 +30,8 @@ Secondaire : étudiants, nouveaux habitants de la ville de Montpellier et alento
 
 Utiliser des APIs de reconnaissance de nom de lieux et d’évènements fournis par la société, retrouver les coordonnées géographiques des lieux, les placer sur une carte avec les informations associées (informations provenant des APIs telles que le nom des événements, des mots clés, des concepts, l’opinion et les émotions associées à un lieu etc.).
 
-## Sources et données disponibles : Wikipédia et/ou articles journalistiques
+## Sources et données disponibles : 
+Wikipédia et/ou articles journalistiques
 
 Lien vers google drive
 [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
