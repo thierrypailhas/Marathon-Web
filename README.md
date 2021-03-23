@@ -13,17 +13,17 @@ Emvista développe des briques logicielles pour comprendre le langage naturel. L
 
 
 ## Enjeux 
-*Permettre de visualiser le parcours de vie d’une personnalité.
-*Proposer un produit digital pour le tourisme culturel: savoir pour un utilisateur en un coup d’oeil si l’ensemble documentaire considéré concerne la zone géographique qui l’intéresse
+* Permettre de visualiser le parcours de vie d’une personnalité.
+* Proposer un produit digital pour le tourisme culturel: savoir pour un utilisateur en un coup d’oeil si l’ensemble documentaire considéré concerne la zone géographique qui l’intéresse
 
 ## Cas d'étude
- L’étude des biographies de personnalités dans Wikipedia et/ou dans des articles journalistiques. Par exemple, à partir du texte décrivant [la vie de Jean Moulin ](https://fr.wikipedia.org/wiki/Jean_Moulin), la carte devrait permettre de visualiser ses déplacements depuis sa naissance à Osset jusqu’à sa mort à Londres.
+ L’étude des biographies de personnalités dans Wikipedia et/ou dans des articles journalistiques. À partir du texte décrivant [la vie de Jean Moulin ](https://fr.wikipedia.org/wiki/Jean_Moulin), la carte devrait permettre de visualiser ses déplacements depuis sa naissance à Osset jusqu’à sa mort à Londres.
 
 ## Cible: 
 
-*Primaire (cœur de cible) : Touristes (adolescents, familles), visiteurs amateurs ou passionnés d’histoire qui sont en vacances/voyage et qui souhaiteraient se rendre sur les lieux cultes tels que ceux parcourus par Jean Moulin, héro de la Résistance par exemple
+* Primaire (cœur de cible) : Touristes (adolescents, familles), visiteurs amateurs ou passionnés d’histoire qui sont en vacances/voyage et qui souhaiteraient se rendre sur les lieux cultes tels que ceux parcourus par Jean Moulin, héro de la Résistance par exemple
 
-*Secondaire : étudiants, nouveaux habitants de la ville de Montpellier et alentours qui souhaiteraient facilement découvrir les lieux incontournables de l’histoire dans le sud de la France.
+* Secondaire : étudiants, nouveaux habitants de la ville de Montpellier et alentours qui souhaiteraient facilement découvrir les lieux incontournables de l’histoire dans le sud de la France.
 
 
 ## Missions : 
