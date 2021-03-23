@@ -2,7 +2,7 @@
 
 # Contexte
 
-De nombreuses informations sont communiquées chaque jour par la presse, les sociétés, les associations, ou plus directement par des personnes. Ces informations sont couramment associées à des mentions de lieux ; c’est le cas par exemple de textes concernant un festival, un évènement sportif, un accident, le déplacement de personnalités ou un site touristique
+De nombreuses informations sont communiquées chaque jour par la presse, les sociétés, les associations, ou plus directement par des personnes. Ces informations sont couramment associées à des mentions de lieux ; c’est le cas par exemple de textes concernant un festival, un évènement sportif, un accident, le déplacement de personnalités ou un site touristique.
 Emvista développe des briques logicielles pour comprendre le langage naturel. Les technologies d’intelligence artificielle mises en œuvre s’appuient sur des connaissances linguistiques et ontologiques fines. L’entreprise souhaiterait utiliser des solutions de reconnaissance de nom, de lieux, et d'événements, pour retrouver les coordonnées géographiques des adresses et les placer sur une carte avec les informations associées. Le produit en plein conception demande à être développé et identifié, afin d’aboutir sur un premier projet concret pour une potentielle commercialisation future.
 
 ## Objectifs
