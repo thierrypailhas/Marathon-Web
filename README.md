@@ -51,6 +51,7 @@ Tâches | Rôles |
  --- | --- |
 Analyse des besoins| CNO et MIASHS | 
 Extraction des données | Thierry, Gilles | 
+Analyse semantique des données | MIASHS | 
 Cartographie | MIASHS |
 Site Web | CNO et MIASHS |
 Flyers | CNO |
