@@ -43,5 +43,11 @@ Lien vers google drive
 Lien vers monday.com
 [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
 
+Tâches :
+
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+
+
+
 
 
