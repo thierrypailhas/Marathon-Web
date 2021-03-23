@@ -35,7 +35,9 @@ Wikipédia et/ou articles journalistiques
 
 
 
-Ouils:
+## Méthologie:
+Nous utiliserons la méthode hybride: 
+Dans un premier temps, nous travaillerons ensemble sur l’analyse des besoins et dans un second temps, nous mettrons en place la méthode agile SCRUM pour une amélioration continue du projet.  
 
 Lien vers google drive
 [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
@@ -43,12 +45,20 @@ Lien vers google drive
 Lien vers monday.com
 [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
 
-Tâches et Rôles :
+## Tâches et Rôles :
 
-Titre colonne 1 | Titre colonne 1 | 
+Tâches | Rôles | 
  --- | --- |
-Celule 1.1 | Celule 1.2 | 
-Celule 2.1 | Celule 2.2 | 
+Analyse des besoins| Tout le monde | 
+Extraction des données | Thierry, Gilles | 
+Cartographie | Adrien |
+Site Web | Tout le monde |
+Flyers | CNO |
+Vidéos | Tout le monde |
+Affiches | Adrien |
+
+
+
 
 
 
