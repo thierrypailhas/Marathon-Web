@@ -49,13 +49,13 @@ Lien vers monday.com
 
 Tâches | Rôles | 
  --- | --- |
-Analyse des besoins| Tout le monde | 
+Analyse des besoins| CNO et MIASHS | 
 Extraction des données | Thierry, Gilles | 
-Cartographie | Adrien |
-Site Web | Tout le monde |
+Cartographie | MIASHS |
+Site Web | CNO et MIASHS |
 Flyers | CNO |
-Vidéos | Tout le monde |
-Affiches | Adrien |
+Vidéos | CNO et MIASHS |
+Affiches | CNO |
 
 
 
