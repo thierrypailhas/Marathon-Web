@@ -33,10 +33,12 @@ Utiliser des APIs de reconnaissance de nom de lieux et d’évènements fournis 
 ## Sources et données disponibles : 
 Wikipédia et/ou articles journalistiques
 
+
+
+Ouils:
+
 Lien vers google drive
 [Google Drive](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
-
-
 
 Lien vers monday.com
 [monday.com](https://drive.google.com/drive/folders/1S2ucRHzngZRu12YsNRYf6kL8s5TDFIQT?usp=sharing)
